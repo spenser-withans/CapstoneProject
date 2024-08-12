@@ -13,6 +13,7 @@ Pinellas Crime Data Map: https://egis.pinellas.gov/apps/CrimeViewer/
 
 **TO DO**
 
-Upload some county parcel data courtesy of Pinellas County Emergency Management
+~~Upload some county parcel data courtesy of Pinellas County Emergency Management~~
+ The raw text file was added instead of the csv I made from it.
 
 I am trying to create a capstone project repository that is linked to a google drive folder.
