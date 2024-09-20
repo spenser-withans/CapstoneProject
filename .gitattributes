@@ -2,3 +2,5 @@ PinellasParcelDATA20240722.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 PinellasSalesDATA.csv filter=lfs diff=lfs merge=lfs -text
 PCPAOSalesDATA.csv filter=lfs diff=lfs merge=lfs -text
+sales16_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+PCPAO_SalesDATA_cleaned.csv filter=lfs diff=lfs merge=lfs -text
